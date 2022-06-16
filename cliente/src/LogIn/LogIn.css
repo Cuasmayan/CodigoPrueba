@@ -1,0 +1,13 @@
+.login-page{
+    display: flex;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+}
+
+/* estilos del contenedor de la imagen de inicio de sesión */
+.login-image-container{
+    background: url('../Resources/Images/log3.JPG') no-repeat;
+    background-size: cover;
+    height: 100%;
+}
