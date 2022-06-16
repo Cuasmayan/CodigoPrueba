@@ -6,3 +6,6 @@ Antes de correrlo, verifique si tiene las dependencias instaladas del programa, 
 Para correr “libreta” ejecutar npm run start, y para correr “cliente” ejecutar npm start
 En la carpeta “libreta” más específicamente src,db se encuentran los scripts de la base de datos del proyecto, para ejecutarlo es necesario tener IDE de 
 desarrollo de bases de datos como MySQL Workbench o un phpAdmin (xampp).
+
+
+Para iniciar sesión, el usuario es manuela y la contraseña 123
